@@ -1,7 +1,7 @@
 # IMDB-Sentiment-Analysis
 # IMDB Sentiment Analysis with Simple RNN
 
-This repository contains a Jupyter Notebook that demonstrates sentiment analysis on the IMDB movie review dataset using a Simple Recurrent Neural Network (RNN) with TensorFlow and Keras.
+This repository contains a Jupyter Notebook that demonstrates sentiment analysis on the IMDB movie review dataset using a Simple Recurrent Neural Network (RNN) with TensorFlow and Keras. The Dataset is directly imported from the tensorflow official website.
 
 **Functionality:**
 
